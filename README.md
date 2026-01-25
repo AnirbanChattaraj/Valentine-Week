@@ -70,3 +70,9 @@ Works beautifully on mobile, tablet & desktop
 Touch-friendly buttons & spacing
 
 Preview:-https://anirbanchattaraj.github.io/Valentine-Week/
+
+❤️ Author
+
+Made with love by Anirban Chattaraj
+
+Feel free to ⭐ the repo if it made you smile.
