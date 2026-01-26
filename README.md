@@ -62,7 +62,7 @@ HTML5
 
 CSS3 (Glassmorphism, gradients, animations)
 
-Vanilla JavaScript (No libraries)
+JavaScript 
 📱 Fully Responsive
 
 Works beautifully on mobile, tablet & desktop
