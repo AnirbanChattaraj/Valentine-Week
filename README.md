@@ -71,7 +71,7 @@ Touch-friendly buttons & spacing
 
 Preview:-https://anirbanchattaraj.github.io/Valentine-Week/
 
-❤️ Author
+❤️ Author>>
 
 Made with love by Anirban Chattaraj
 
