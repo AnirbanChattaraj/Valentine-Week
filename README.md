@@ -69,7 +69,7 @@ Works beautifully on mobile, tablet & desktop
 
 Touch-friendly buttons & spacing
 
-Preview:-https://anirbanchattaraj.github.io/Valentine-Week/
+Preview>>https://anirbanchattaraj.github.io/Valentine-Week/
 
 ❤️ Author>>
 
