@@ -36,12 +36,6 @@ Soft glow & hover love animations
 
 Pulsing heart icons on every card
 
-🎵 Background Music
-
-Soft romantic instrumental
-
-Play / mute toggle (user-controlled)
-
 🗓️ Smart Valentine Logic
 
 Automatically highlights the current Valentine day based on date
