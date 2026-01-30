@@ -1,4 +1,4 @@
-❤️ Valentine Week – Premium Love Experience
+❤️ Valentine Week – Love Experience
 
 A romantic, premium Valentine Week microsite built with HTML, CSS, and JavaScript.
 Designed to feel emotional, warm, and lovable — not just a UI, but an experience.
