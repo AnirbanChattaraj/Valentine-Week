@@ -23,7 +23,7 @@ Perfect for:
 
 🌐 Valentine microsites
 
-🎓 College / portfolio projects
+🎓Pportfolio projects
 
 🎁 Gifting someone special
 
