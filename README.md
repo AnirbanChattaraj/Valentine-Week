@@ -50,7 +50,7 @@ Random colorful hearts floating upwards
 
 Lightweight & mobile-safe
 
-🛠️ Built With
+🛠️ Built With:
 
 HTML5
 
