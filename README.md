@@ -54,7 +54,7 @@ Lightweight & mobile-safe
 
 HTML5
 
-CSS3 (Glassmorphism, gradients, animations)
+CSS3 
 
 JavaScript 
 📱 Fully Responsive
