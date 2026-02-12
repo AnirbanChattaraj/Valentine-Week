@@ -57,7 +57,7 @@ HTML5
 CSS3 
 
 JavaScript 
-📱 Fully Responsive
+
 
 Works beautifully on mobile, tablet & desktop
 
