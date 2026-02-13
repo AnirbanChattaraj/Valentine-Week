@@ -17,7 +17,7 @@ Typewriter-style emotional love note
 
 Fully mobile responsive design
 
-Perfect for:
+Perfect for
 
 💕 Personal love pages
 
