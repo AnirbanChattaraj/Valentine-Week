@@ -17,7 +17,7 @@ Typewriter-style emotional love note
 
 Fully mobile responsive design
 
-Perfect for
+Perfect for:
 
 💕 Personal love pages
 
@@ -27,7 +27,7 @@ Perfect for
 
 🎁 Gifting someone special
 
-✨ Features
+✨ Features:
 💖 Romantic UI
 
 Valentine-themed red & blush-pink glass cards
